@@ -1,0 +1,1 @@
+# bearing-defect-detection
